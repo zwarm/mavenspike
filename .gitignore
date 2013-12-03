@@ -27,3 +27,9 @@ proguard/
 *.ipr
 *.iws
 .idea/
+bin
+target
+/tmp
+.DS_Store
+out/
+release.properties
